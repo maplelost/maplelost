@@ -1,6 +1,5 @@
 ### Damn Bro
 ![:name](https://count.getloli.com/get/@:maplelost)  
-
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 <!-- waka-box start -->
