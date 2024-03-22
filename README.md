@@ -3,7 +3,6 @@
 
 🌟 **My Skills & Tools**  
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
-
 <!-- waka-box start -->
 #### <a href="https://gist.github.com/d1ad2525fd7f598feab812ce5e13a736" target="_blank">📊 Weekly development breakdown</a>
 ```text
