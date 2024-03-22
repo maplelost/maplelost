@@ -1,7 +1,7 @@
-### Hi there 👋
-<a href="#">
+### Damn Bro
+/*
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=maplelost&show_icons=true" />
-</a>  
+*/
 
 ![:name](https://count.getloli.com/get/@:XiaoMiku01)  
 🌟 **My Skills & Tools**  
