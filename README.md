@@ -7,6 +7,4 @@
 [![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 <!-- waka-box start -->
 
-![Metrics](/github-metrics.svg)
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
